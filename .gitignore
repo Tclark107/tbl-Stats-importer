@@ -1,0 +1,16 @@
+# Shopify credentials
+.env
+.env.*
+!.env.example
+
+# CSV data
+*.csv
+
+# Generated output
+*.out
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
